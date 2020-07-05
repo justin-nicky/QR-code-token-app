@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "81232930696",
+    "firebase_url": "https://flutter-token-app.firebaseio.com",
+    "project_id": "flutter-token-app",
+    "storage_bucket": "flutter-token-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81232930696:android:cc3e296b5b4e3126053c3d",
+        "android_client_info": {
+          "package_name": "com.token.app_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81232930696-ap0rslre6kmqbqabqkci89rm2in0d6mu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlghhqVO6vKxctdI80MdbupNHhq5dwFA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "81232930696-ap0rslre6kmqbqabqkci89rm2in0d6mu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
